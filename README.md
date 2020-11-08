@@ -11,6 +11,9 @@
 > 1. XGBoost
 > 2. CatBoost
 > 3. LightGBM
+- these are optimized by bayes & random search 
+
+> 4. Final Params - Look at the FINAL TEST File (includes results) 
 
 #### 3. Visualization
 > This is simply done using seaborn
