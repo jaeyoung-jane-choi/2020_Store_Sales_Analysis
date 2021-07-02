@@ -5,6 +5,7 @@
 > 3. Visualization
 
 #### 1. The preprocess is done with various steps
+- [data source](https://www.dacon.io/en/competitions/official/140472/overview/description)
 - The most important step is the impuation of missing data
 
 #### 2. The Modeling is done with 3 main models
